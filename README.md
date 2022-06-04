@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Letícia!
-Sou iniciante no ramo da programação, iniciando minha formação em Sistemas para internet, 
+Sou estudante no ramo da programação, iniciando minha formação em Sistemas para internet, 
 paralelamente buscando aperfeiçoamento através de diversos cursos na área da tecnologia.
 - 👀 I’m interested in ...
 FrontEnd: HTML/CSS/JavaScript/UX.
