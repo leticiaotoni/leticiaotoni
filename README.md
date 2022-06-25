@@ -1,6 +1,6 @@
-Oi, eu sou a Letícia! 👋
+### Oi, eu sou a Letícia! 👋
 Sou estudante iniciante no ramo da programação, realizando minha formação em Sistemas para internet, 
-paralelamente buscando aperfeiçoamento através de diversos cursos livres na área da tecnologia com foco em front end.
+paralelamente buscando aperfeiçoamento através de diversos cursos livres na área tech com foco em front end.
 
 Skills:
 HTML/CSS/JavaScript/UX 
