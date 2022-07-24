@@ -8,7 +8,7 @@ HTML/CSS/JavaScript/UX
 Também possuo forte interessse na área de ciência de dados.
 
 Entre em contato comigo:
-Linkedin: https://www.linkedin.com/in/leticiaotoni/
+* https://www.linkedin.com/in/leticiaotoni/
 
 <!---
 leticiaotoni/leticiaotoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
