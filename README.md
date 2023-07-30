@@ -5,7 +5,7 @@ paralelamente buscando aperfeiçoamento através de diversos cursos livres na á
 Skills:
 HTML/CSS/JavaScript/UX 
 
-Também possuo forte interessse na área de ciência de dados.
+Também possuo forte interessse na área de ciências de dados.
 
 Entre em contato comigo:
 * https://www.linkedin.com/in/leticiaotoni/
