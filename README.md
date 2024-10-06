@@ -1,11 +1,11 @@
 ### Oi, eu sou a Letícia! 👋
-Sou estudante iniciante no ramo da programação, realizando minha formação em Sistemas para internet, 
+Sou iniciante no ramo da programação, realizei recentemente minha formação em Sistemas para internet, 
 paralelamente buscando aperfeiçoamento através de diversos cursos livres na área tech com foco em front end.
 
 Skills:
 HTML/CSS/JavaScript/UX 
 
-Também possuo forte interessse na área de ciências de dados.
+Também possuo forte interessse na área de ciências de dados e suporte T.I em geral.
 
 Entre em contato comigo:
 * https://www.linkedin.com/in/leticiaotoni/
